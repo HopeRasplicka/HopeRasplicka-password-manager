@@ -1,3 +1,3 @@
 # password-manager 
 
-Visit the [password-manager]{https://github.com/HopeRasplicka/password-manager} for more information.
+Visit the [password-manager]{https://github.com/HopeRasplicka/projects} for more information.
