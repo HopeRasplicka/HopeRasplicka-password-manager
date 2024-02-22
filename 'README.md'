@@ -1,0 +1,40 @@
+# Password Manager
+
+## Description
+The Password Manager is a Python-based command-line tool that allows users to securely store and manage their passwords. It provides functionalities to add, retrieve, update, and delete passwords for different websites or accounts.
+
+## Installation
+1. Clone the repository:
+
+2. Navigate to the project directory:
+
+3. Install dependencies:
+
+
+## Usage
+- Add a password: `python password_manager.py add <website> <username> <password>`
+- Retrieve a password: `python password_manager.py get <website>`
+- Update a password: `python password_manager.py update <website> <username> <password>`
+- Delete a password: `python password_manager.py delete <website>`
+- List stored websites: `python password_manager.py list`
+
+## Features
+- Securely store passwords using encryption
+- Add, retrieve, update, and delete passwords
+- Command-line interface for easy interaction
+- Data persistence using JSON file storage
+
+## Contributions
+Contributions are welcome! Please follow these guidelines when contributing:
+- Fork the repository
+- Create a new branch for your feature or bug fix
+- Make your changes and test thoroughly
+- Commit your changes with descriptive messages
+- Push your changes to your fork
+- Submit a pull request to the main repository
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+For any questions or suggestions, feel free to contact the project maintainer at [rasplickah5@gmail.com](mailto:rasplickah5@gmail.com). 
